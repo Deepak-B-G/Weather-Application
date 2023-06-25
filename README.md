@@ -32,7 +32,7 @@ Figure 02: Sample working of the application in Imperial format.
 
 1. Clone the Repository.
 ```
-git clone https://github.com/Deepak-B-G/Weather-Application.git
+https://github.com/Deepak-B-G/Weather-Application.git
 ```
 2. Navigate to my-app
 ```

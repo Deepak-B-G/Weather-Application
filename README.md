@@ -18,11 +18,15 @@ Visit [DEMO](http://simple-weather-application.s3-website.ap-south-1.amazonaws.c
 
 
 
-![01](https://github.com/Deepak-B-G/Weather-Application/assets/97933847/4757fca4-bbe5-4a1c-8e74-a18edd503e32)
-Figure 01: Sample working of the application in Celcius.
 
-![02](https://github.com/Deepak-B-G/Weather-Application/assets/97933847/4d7f683f-4f51-41dc-b31e-135e26c3014c)
-Figure 02: Sample working of the application in Fahrenheit.
+
+![01](https://github.com/Deepak-B-G/Weather-Application/assets/97933847/fb596d51-e24b-443f-a20c-10fa6d05bb3e)
+
+ure 01: Sample working of the application in Metric format.
+
+![02](https://github.com/Deepak-B-G/Weather-Application/assets/97933847/d2d79e51-36d2-4293-9d84-144f30becfd6)
+
+Figure 02: Sample working of the application in Imperial format.
 
 ## Installation
 
